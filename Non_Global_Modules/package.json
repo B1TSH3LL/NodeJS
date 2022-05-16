@@ -9,6 +9,7 @@
   "author": "Piyush Shrivastava",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "superheroes": "^3.0.0",
     "supervillains": "^3.0.0"
   }
